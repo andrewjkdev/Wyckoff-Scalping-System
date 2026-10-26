@@ -1,0 +1,6 @@
+cache/
+.ipynb_checkpoints/
+__pycache__/
+# cited sources are private research copies (publisher / MIT copyright) - keep the manifest only
+artifacts/sources/*
+!artifacts/sources/MANIFEST.md
